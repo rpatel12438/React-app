@@ -8,7 +8,6 @@ function App() {
         <p>
           My first React project! Created By Roshan Patel
         </p>
-
       </header>
     </div>
   );
