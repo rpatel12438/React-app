@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <p>
           My first React project! Created By Roshan Patel
+            I am learning how to use ReactJS
         </p>
       </header>
     </div>
