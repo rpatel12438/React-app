@@ -12,7 +12,7 @@ function App() {
               I am learning how to use ReactJS
           </p>
           <button>
-              Hello
+              Hello, you can press me
           </button>
       </header>
     </div>
