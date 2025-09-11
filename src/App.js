@@ -11,12 +11,16 @@ function App() {
           <p>
               I am learning how to use ReactJS
           </p>
-          <button>
-              Hello, you can press me
-          </button>
+          <MyButton />
       </header>
     </div>
   );
+}
+
+function MyButton() {
+    return (
+        <button>You can press me</button>
+    );
 }
 
 export default App;
