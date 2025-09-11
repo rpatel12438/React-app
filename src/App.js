@@ -6,10 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          My first React project! Created By Roshan Patel
+          My first React project!
         </p>
           <p>
-              I am learning how to use ReactJS
+              Created By Roshan Patel
           </p>
           <MyButton />
       </header>
@@ -19,7 +19,7 @@ function App() {
 
 function MyButton() {
     return (
-        <button>You can press me</button>
+        <button>Press me</button>
     );
 }
 
