@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
           <h1>Welcome to my first webpage</h1>
+          <h2>Created a second header!</h2>
         <p>
           My first React project!
         </p>
