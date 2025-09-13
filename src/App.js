@@ -13,7 +13,7 @@ function App() {
           <p>
               Created By Roshan Patel
           </p>
-          <MyButton />
+          <MyButton/>
       </header>
     </div>
   );
