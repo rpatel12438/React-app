@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
           <h1>Welcome to my first webpage</h1>
           <h2>Created a second header!</h2>
-          <h3>I can have a 3rd header as well.</h3>
+          <h3>I can have a 3rd header s well.</h3>
         <p>
           My first React project!
         </p>
