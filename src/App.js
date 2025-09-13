@@ -13,7 +13,7 @@ function App() {
           <p>
               Created By Roshan Patel
           </p>
-          <p>See more <a href="https://google.com">cat photos</a> in our gallery.</p>
+          <p>Click <a href="https://google.com">this</a> to go to Google.</p>
           <MyButton/>
       </header>
     </div>
