@@ -13,6 +13,7 @@ function App() {
           <p>
               Created By Roshan Patel
           </p>
+          <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGhxU4o5pOUy15ZwR4HXxqqZqVWWBqJTZxRCZb0ZK1xoGJwlIpQoCmlP3uPY2DWV6IfcgOz278y2FTLrk3gPGW7SRrgcH0VfonDHXGA_E" alt="Picture of me"/>
           <p>Click <a href="https://google.com">this</a> to go to Google.</p>
           <MyButton/>
       </header>
