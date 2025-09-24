@@ -8,7 +8,7 @@ function App() {
           <h2>Created a second header!</h2>
           <h3>I can have a 3rd header as well.</h3>
         <p>
-          My first React project!
+          My first React code!
         </p>
           <p>
               Created by: Roshan Patel
