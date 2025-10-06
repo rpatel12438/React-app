@@ -8,7 +8,7 @@ function App() {
           <h2>Created a second header!</h2>
           <p>My first React code!</p>
           <p>Created by: Roshan Patel</p>
-          <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGhxU4o5pOUy15ZwR4HXxqqZqVWWBqJTZxRCZb0ZK1xoGJwlIpQoCmlP3uPY2DWV6IfcgOz278y2FTLrk3gPGW7SRrgcH0VfonDHXGA_E" alt="Picture of EST GEE"/>
+          <img src="https://images.seeklogo.com/logo-png/23/2/atlanta-braves-logo-png_seeklogo-238257.png" alt="Picture of Braves logo"/>
           <p>Click <a href="https://images.google.com">this</a> to go to Google Images.</p>
           <MyButton/>
       </header>
