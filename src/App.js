@@ -23,7 +23,7 @@ function App() {
 
 function MyButton() {
     return (
-        <button>Try to press me</button>
+        <button>Press me</button>
     );
 }
 
