@@ -10,13 +10,13 @@ function App() {
           <p>Created by: Roshan Patel</p>
           <img src="https://images.seeklogo.com/logo-png/23/2/atlanta-braves-logo-png_seeklogo-238257.png" alt="Picture of Braves logo"/>
           <p>Click <a href="https://images.google.com">this</a> to go to Google Images.</p>
-          <aButton/>
+          <AButton/>
       </header>
     </div>
   );
 }
 
-function aButton() {
+function AButton() {
     return (
         <button>Press me</button>
     );
